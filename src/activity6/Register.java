@@ -1,7 +1,5 @@
 package activity6;
 
-import javafx.beans.Observable;
-
 import java.util.Observer;
 
 public class Register { // use-case controller
